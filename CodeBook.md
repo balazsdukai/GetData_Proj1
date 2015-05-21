@@ -8,7 +8,7 @@ _2015-05-21_
 
 * id : the identification number of the test subject
 * activity : the activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by the person
-* columns from "tBodyAcc.mean...X" to "fBodyBodyGyroJerkMag.std.." : average values of the normalized feature vectors (see more in detail below).
+* columns from "tBodyAcc.mean...X" to "fBodyBodyGyroJerkMag.std.." : average values of the normalized feature vectors (see more in detail at Features).
 
 
 ### The raw data was summarized as it follows:
@@ -20,6 +20,12 @@ _2015-05-21_
 5. extract only the measurements on the mean and standard deviation for each measurement  
 6. calculate the average of each variable for each activity and each subject
 
+### Data source
+
+Full description and original source of the raw data:  
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
+To download:  
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ### Features (description from the original data set, see "features_info.txt")
 

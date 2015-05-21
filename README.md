@@ -15,3 +15,8 @@ _2015-05-21_
 ### Code book
 
 For detailed description on the variables in the data and the summary process, see the CodeBook.md
+
+### Data source
+
+Full description and original source of the raw data:  
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
